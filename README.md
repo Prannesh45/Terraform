@@ -6,3 +6,7 @@
 
 <p>This is a repository where you can start learning Teraform right from scratch just by following the mentioned steps.</p>
 <p>I will be sharing by learnings what I learn from Terraform Documentations and other external third party resources</p>
+
+<h2>Repository Structure</h2>
+
+<p>Repository is divided in 10 structures right from Pre-requisites, installation until provsioning and best-practices</p>
