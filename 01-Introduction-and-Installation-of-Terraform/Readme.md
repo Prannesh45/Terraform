@@ -8,7 +8,7 @@
 <p>It is an open source tool developed by HashiCorp with the main motive of automative cloud and system Provision</p>
  <p>As Terraform being an open source tool, itd widely used in both on-premises and cloud appliances right from provisioning cluters, to automating daiy tasks to managing and monitoring instances</p>
 
-To read more about the what Terraform is, check out the attached [link](https://www.terraform.io/intro>)
+To read more about the what Terraform is, check out the attached [link](https://www.terraform.io/intro)
 
 
 <h2><b>Installation of Terraform</b></h2>
